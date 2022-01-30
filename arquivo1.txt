@@ -8,8 +8,8 @@ Versão 2 deste arquivo!
 
 _______________________________
 COMANDOS UTILIZADOS:
-git add NOMEDOARQUIVO
-git commit NOMEDOARQUIVO
+git add NOMEDOARQUIVO (ou "." para mandar todos)
+git commit -m "MENSAGEM"
 git status
 git log
 git push origin main
