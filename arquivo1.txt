@@ -2,3 +2,16 @@ Novo arquivo 01
 
 Editando pelo próprio GitHub
 
+Versão 2 deste arquivo!
+
+
+
+_______________________________
+COMANDOS UTILIZADOS:
+git add NOMEDOARQUIVO
+git commit NOMEDOARQUIVO
+git status
+git log
+git push origin main
+git pull origin main
+clear
