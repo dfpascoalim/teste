@@ -6,12 +6,43 @@ Versão 2 deste arquivo!
 
 
 
+
 _______________________________
 COMANDOS UTILIZADOS:
+git clone 
+	Clona a  pasta do computador para o repositório do GitHub 
+git remote add origin ENDEREÇO
+	Vincula o repositório do GitHub para a pasta do computador
 git add NOMEDOARQUIVO (ou "." para mandar todos)
+	Para adicionar o arquivo na seleção para commitar.
 git commit -m "MENSAGEM"
+	Arquivo/conjunto de arquivos versionados. Contém uma mensagem opcional.
 git status
+	Mostra o status da pasta
 git log
+	Mostra o que foi realizado na pasta
 git push origin main
+	Envia as atualizações para o repositório no GitHub 
 git pull origin main
+	Traz as atualizações para o repositório no computador
+git init
+	quando inicializa pelo próprio computador
 clear
+	Limpa o terminal
+exit
+	Sai do Git Bash
+git branch
+	Mostra quantas branches existem no repositório e em qual vc está
+git branch NOMEDABRANCH
+	Cria branch
+git checkout NOMEDABRANCH
+	Entra na branch
+
+
+
+
+*main - no GitHub foi alterado de "master" para "main". Porém no GIT ainda continua a palavra "master"
+
+
+
+
